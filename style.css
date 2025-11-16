@@ -101,7 +101,7 @@ nav a.cta {
 
 img {
     width: 100%;
-    height: auto;
+    height: 70%;
     padding-block-start: 1em;
 }
 
@@ -316,7 +316,7 @@ footer {
 }
 
 .small {
-    font-size: 13px;
+    font-size: 16px;
     color: #666
 }
 
