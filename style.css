@@ -71,7 +71,7 @@ header {
     font-weight: 900
 }
 
-.col #iframe-map {
+.col .iframe-map {
     width: 100%;
 }
 
