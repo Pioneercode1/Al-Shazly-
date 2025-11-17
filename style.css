@@ -71,6 +71,25 @@ header {
     font-weight: 900
 }
 
+.img-hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* overflow: hidden; */
+    /* width: 100%; */
+}
+
+.img-hero img {
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+}
+
+.img-hero p {
+    color: #C9A052;
+    font-weight: 700;
+}
+
 .col .iframe-map {
     width: 100%;
 }
