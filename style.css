@@ -73,7 +73,7 @@ header {
 
 .img-hero {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     /* overflow: hidden; */
     /* width: 100%; */
@@ -222,7 +222,8 @@ img {
     padding: 18px;
     border-radius: 14px;
     box-shadow: 0 6px 20px rgba(10, 26, 47, 0.06);
-    border-top: 4px solid var(--gold)
+    border-top: 4px solid var(--gold);
+    overflow: hidden;
 }
 
 .card h3 {
@@ -402,5 +403,13 @@ footer {
     .hero h1 {
         font-size: 22px
     }
-}
 
+    .about {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-hero {
+        flex-direction: column;
+    }
+}
