@@ -4,7 +4,7 @@
  * Add new photos here to update the gallery.
  */
 const galleryImages = [
-    { src: './images/elshazly.jpg', alt: 'فريق العمل' },
+    { src: './images/elshazly.jpeg', alt: 'فريق العمل' },
     { src: './images/volvo2.avif', alt: 'شاحناتنا' },
     { src: './images/elshazly-Image2.jpeg', alt: 'اجتماعات العمل' },
     { src: './images/actros_m.avif', alt: 'أسطول النقل' },
